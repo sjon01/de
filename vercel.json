@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.escortnews.in/$1",
+      "permanent": true
+    }
+  ]
+}
