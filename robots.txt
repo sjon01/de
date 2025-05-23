@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: 
 Disallow: /cgi-bin/
 Sitemap: https://mumbainyte.com/sitemap.xml
