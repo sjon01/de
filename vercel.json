@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://p.pubangalore.com/$1",
+      "destination": "https://www.punenyt.com/$1",
       "permanent": true
     }
   ]
